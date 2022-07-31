@@ -1,8 +1,8 @@
 ### Greetings 👋
 
-<!--
-**My Name is Randika Sirimanne, and I'm a Student at Wintec,
 
+  My Name is Randika Sirimanne, and I'm a Student at Wintec, studying Bachelor in applied IT, nice to meet you.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
