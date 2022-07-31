@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 <!--
-My Name is Randika Sirimanne, and I'm a Student at Wintec,
+**My Name is Randika Sirimanne, and I'm a Student at Wintec,
 
 Here are some ideas to get you started:
 
