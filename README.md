@@ -1,10 +1,10 @@
-### Greetings 👋
+# 💫 About Me:
+### Greetings  👋<br><br>🏫Current Studying in Post Graduate Studies<br>💻Hobbies: Testing new things out, and playing Games<br>🧑‍💻Coding compiler still learning: C# , Python , C/C++<br><br><br>
 
-My Name is Randika Sirimanne, and I'm a Student at Wintec, nice to meet you.
 
--  📖I’m currently studying Bachelor in applied IT
--  🌐How to reach me: ransiriman@outlook.com
--  💻Hobbies: Playing video games
--  Coding compiler still learning: C#
--  Want to learn coding compiler: Python , C\C++
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ransiri) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
