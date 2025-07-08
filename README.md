@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Greetings  👋<br><br>🏫Current Studying in Post Graduate Studies<br>💻Hobbies: Testing new things out, and playing Games<br>🧑‍💻Coding compiler still learning: C# , Python , C/C++<br><br><br>
+### Greetings  👋<br><br>🏫Current Studying in Post Graduate Studies In UOA<br>💻Hobbies: Testing new things out, and playing Games<br>🧑‍💻<br><br><br>
 
 
 ## 🌐 Socials:
