@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Greetings  👋<br><br>🏫Current Studying in Post Graduate Studies In UOA<br>💻Hobbies: Testing new things out, and playing Games<br><br>✉️<br>ransiriman@outlook.com<br>
+### Greetings  👋<br><br>🏫Current Studying in Post Graduate Studies In UOA<br>💻Hobbies: Testing new things out, and playing Games<br><br>✉️ransiriman@outlook.com<br>
 
 
 ## 🌐 Socials:
